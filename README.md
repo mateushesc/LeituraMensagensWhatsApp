@@ -71,11 +71,7 @@ O arquivo exportado deve estar no formato de texto do WhatsApp, incluindo a data
 Certifique-se de que o arquivo .txt segue essa estrutura para que o script consiga ler as mensagens corretamente.
 
 
-## **Licença**
-
-Este projeto é livre para uso e modificação, conforme os termos da licença MIT.
-
-
 ## **Agradecimentos**
+
 
 Este projeto foi desenvolvido com a assistência do ChatGPT, que ajudou a implementar e refinar as funcionalidades do script e a construir esta documentação.
